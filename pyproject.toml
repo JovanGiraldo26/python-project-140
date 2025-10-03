@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "hexlet-code"
+name = "brain_games"
 version = "0.1.0"
 description = "Proyecto Brain Games"
 readme = "README.md"
