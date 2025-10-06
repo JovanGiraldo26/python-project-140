@@ -3,3 +3,7 @@
 
 ### Code Maintainability
 [![Maintainability](https://qlty.sh/gh/JovanGiraldo26/projects/python-project-140/maintainability.svg)](https://qlty.sh/gh/JovanGiraldo26/projects/python-project-140)
+
+### Demostración del juego Brain Even
+
+[![asciicast](https://asciinema.org/a/eHyWnfL1v67zW3sVUrGjvoaYi.svg)](https://asciinema.org/a/eHyWnfL1v67zW3sVUrGjvoaYi)
