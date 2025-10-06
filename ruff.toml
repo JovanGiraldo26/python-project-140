@@ -1,0 +1,6 @@
+# Configuración básica de Ruff
+target-version = "py310"
+
+[lint]
+select = ["E", "F", "W"]
+ignore = ["E501"]  # Ignora líneas largas por ahora
